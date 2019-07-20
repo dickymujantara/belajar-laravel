@@ -3,6 +3,7 @@
 Route::get('/', function () {
     return view('layouts.landing');
 });
+Route::get('/services','ServicesController@index');
 
 Route::get('/register/user', function(){
     return view('UserRegistrasi');
