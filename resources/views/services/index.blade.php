@@ -238,11 +238,11 @@
                         <div class="text-foot">
                             <p class="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                         </div>
-                        <div class="icon">
+                        <!-- <div class="icon">
                             <i class="fab fa-facebook fa-3x"></i>
                             <i class="fab fa-twitter fa-3x"></i>
                             <i class="fab fa-instagram fa-3x"></i>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="col-sm">
@@ -251,7 +251,7 @@
                         </div>
                         <div class="text-foot">
                             <p class="text-secondary">
-Even the all-powerful Pointing has no control about</p>
+                            Even the all-powerful Pointing has no control about</p>
                         </div>
                         <div class="icon">
                             <i class="fab fa-facebook fa-3x"></i>
@@ -261,7 +261,7 @@ Even the all-powerful Pointing has no control about</p>
                     </div>
 
 
-                    <div class="col-sm">
+                    <!-- <div class="col-sm">
                         <div class="header">
                             <h5 class="text-white">About Us</h5>
                         </div>
@@ -273,9 +273,9 @@ Even the all-powerful Pointing has no control about</p>
                             <i class="fab fa-twitter fa-3x"></i>
                             <i class="fab fa-instagram fa-3x"></i>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-sm">
+                    <!-- <div class="col-sm">
                         <div class="header">
                             <h5 class="text-white">About Us</h5>
                         </div>
@@ -287,7 +287,7 @@ Even the all-powerful Pointing has no control about</p>
                             <i class="fab fa-twitter fa-3x"></i>
                             <i class="fab fa-instagram fa-3x"></i>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
 
