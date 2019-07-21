@@ -100,3 +100,10 @@ Route::post('/member/update','MemberController@update');
 Route::get('/test-bootstrap',function(){
     return view('testbootstrap');
 });
+
+// Route::get('/blog',function(){
+//     return view('blog.index');
+// });
+Route::get('/blog',function(){
+    return view('blog.blog');
+});
